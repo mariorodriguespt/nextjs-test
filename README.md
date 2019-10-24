@@ -7,5 +7,3 @@ OR
 
 `npm install`
 `npm run dev`
-
-
